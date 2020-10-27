@@ -1,0 +1,9 @@
+.row{
+	padding-bottom:5px;
+}
+.radio label{
+	display: block;
+}
+textarea{
+	resize: none;
+}

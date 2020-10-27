@@ -1,0 +1,42 @@
+.chart-body{
+	width: 170px;
+	padding: 20px 10px;	
+	position: relative;
+}
+.chart-body .label{
+	position: absolute;
+	left: 0;
+	top: 92%;
+	width: 100%;	
+	font-size: 12pt;
+	text-align: center;
+	text-transform: capitalize;
+	color: #000;	
+	margin: 0 auto 0;
+}
+.chart span{
+	font-size: 17pt;
+}
+textarea{
+	resize: none;
+}
+.control-label{
+	font-weight: bold;	
+}
+.stat{
+	text-align: center;
+}
+dl{
+	font-size: 13pt;
+}
+ul.child-menu{
+	padding-left: 15px;
+	text-transform: capitalize;
+}
+ul.grand-menu{
+	padding-left: 30px;
+	text-transform: capitalize;
+}
+.editable-form{
+	text-decoration: none;
+}
